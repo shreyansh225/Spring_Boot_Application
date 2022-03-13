@@ -3,7 +3,7 @@ A  Sample Spring Boot Application with step by step comments for clear understan
 
 
  API Urls for the course App
-
+<p>
   Method         API Urls(Urls start with Base url)         Operation
 
    GET                /courses                          Get all course
@@ -11,3 +11,4 @@ A  Sample Spring Boot Application with step by step comments for clear understan
    POST               /courses                          Add new course
    PUT                /courses                          Update the course
   DELETE              /courses/{courseId}               Delete the course of the given courseId in the url
+<p>
