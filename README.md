@@ -1,9 +1,9 @@
 # Spring_Boot_Application
 A  Sample Spring Boot Application with step by step comments for clear understanding of the Spring Boot
 
-<h4> To Run the application go to  src\main\java\com\springrestD\springrestD\SpringrestDApplication.java </h4>
+<h4> To Run the application go to  src\main\java\com\springrestD\springrestD\SpringrestDApplication.java </h4> <br><br>
 
- API Urls for the course App  <br><br>
+ API Urls for the course App  <br>
 <p>
   <h3>Method   &nbsp;&nbsp;&nbsp;&nbsp;     API Urls(Urls start with Base url) &nbsp;&nbsp;&nbsp;&nbsp;      Operation</h3> <br>
 
