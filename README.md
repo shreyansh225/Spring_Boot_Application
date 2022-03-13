@@ -8,7 +8,7 @@ A  Sample Spring Boot Application with step by step comments for clear understan
 
    GET     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           /courses                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Get all course  <br>
    GET     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           /courses/{courseId}         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Get single course of the given courseId in Url  <br>
-   POST    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          /courses                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Add new course  <br>
+   POST    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          /courses                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Add new course  <br>
    PUT     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           /courses                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Update the course  <br>
   DELETE   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          /courses/{courseId}         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Delete the course of the given courseId in the url  <br>
 <p>
