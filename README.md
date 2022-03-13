@@ -4,7 +4,7 @@ A  Sample Spring Boot Application with step by step comments for clear understan
 
  API Urls for the course App
 <p>
-  Method         API Urls(Urls start with Base url)         Operation
+  <h3>Method         API Urls(Urls start with Base url)         Operation</h3>
 
    GET                /courses                          Get all course
    GET                /courses/{courseId}               Get single course of the given courseId in Url
