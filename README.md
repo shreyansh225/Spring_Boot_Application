@@ -1,7 +1,7 @@
 # Spring_Boot_Application
 A  Sample Spring Boot Application with step by step comments for clear understanding of the Spring Boot
 
-<h4> To Run the application go to  src\main\java\com\springrestD\springrestD\SpringrestDApplication.java </h4> <br><br>
+<h4> To Run the application go to  src\main\java\com\springrestD\springrestD\SpringrestDApplication.java </h4>
 
 <h4> Next Version of the Spring Boot application with SQL Congiguration is - https://github.com/shreyansh225/Spring_Boot_App_with_MySQL_config.git </h4> 
 
@@ -27,9 +27,9 @@ A  Sample Spring Boot Application with step by step comments for clear understan
 <p>
   <h3>Method----------API Urls(Urls start with Base url)----------- Operation</h3> <br>
 
-   GET------------------/courses--------------------------------Get all course  <br>
-   GET------------------/courses/{courseId}---------------------Get single course of the given courseId in Url  <br>
-   POST-----------------/courses ------------------------------ Add new course  <br>
-   PUT------------------/courses--------------------------------Update the course  <br>
-  DELETE---------------/courses/{courseId}----------------------Delete the course of the given courseId in the url  <br>
+   GET----------------------/courses--------------------------------Get all course  <br>
+   GET----------------------/courses/{courseId}---------------------Get single course of the given courseId in Url  <br>
+   POST---------------------/courses ------------------------------ Add new course  <br>
+   PUT----------------------/courses--------------------------------Update the course  <br>
+  DELETE--------------------/courses/{courseId}----------------------Delete the course of the given courseId in the url  <br>
 <p>
