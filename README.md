@@ -22,6 +22,11 @@ A  Sample Spring Boot Application with step by step comments for clear understan
   
 </h4>
 
+<img src="https://github.com/shreyansh225/Spring_Boot_App_with_MySQL_config/blob/master/Diagrams%20and%20Photos/Spring%20boot%20work%20flow.jpeg" alt="Flow Chart" width="" height="">
+<br>
+<img src="https://github.com/shreyansh225/Spring_Boot_App_with_MySQL_config/blob/master/Diagrams%20and%20Photos/API%20Urls%20used.jpeg" alt="API Urls" width="" height="">
+
+
 
  API Urls for the course App  <br>
 <p>
