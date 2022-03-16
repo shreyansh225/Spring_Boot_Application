@@ -30,7 +30,7 @@ A  Sample Spring Boot Application with step by step comments for clear understan
 
  API Urls for the course App  <br>
 <p>
-  <h3>Method----------API Urls(Urls start with Base url)----------- Operation</h3> <br>
+  <h3>Method----------API Urls(Urls start with Base url)---------- Operation</h3> <br>
 
    GET----------------------/courses--------------------------------Get all course  <br>
    GET----------------------/courses/{courseId}---------------------Get single course of the given courseId in Url  <br>
